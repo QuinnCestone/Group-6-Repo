@@ -28,9 +28,9 @@ Each team member should list their tasks from the last week, along with time spe
 * Task 2, hours/minutes spent
 * Task _n_, hours/minutes spent
 
-## Member 2
+## Member 2 Fletcher Ogburn
 
-* Task 1, hours/minutes spent
+* Github setup, 2 hours spent
 * Task 2, hours/minutes spent
 * Task _n_, hours/minutes spent
 
@@ -44,6 +44,6 @@ Each team member should list their tasks from the last week, along with time spe
 
 Which team members were present at your weekly meetings? You should have at least one scheduled, with a second scheduled as a backup in case you need one.
 
-* Meeting 1: Quinn Cestone 
+* Meeting 1: Quinn Cestone, Fletcher Ogburn
 * Meeting 2: _list the team members here_
 
